@@ -1,5 +1,4 @@
 #!/usr/bin/python3
-# Author: Hack.You
 from pwn import remote
 from string import ascii_letters, digits
 from Crypto.Util.number import long_to_bytes
